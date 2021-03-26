@@ -6,13 +6,17 @@ Black and white image colorization with OpenCV.
   * [Technologies Used](#technologies-used)
   * [Team](#team)
 
-## Overview
-Image colorization is the process of taking an input grayscale (black and white) image and then producing an output colorized image that represents the semantic colors and tones of the input (for example, an ocean on a clear sunny day must be plausibly “blue” — it can’t be colored “hot pink” by the model).
+## Overview(task assigned)
+1. Write a python script to scrape all jobs from LinkedIn in a
+particular time frame (yesterday/ last month)
+2. Store details of the scraped jobs (like the Job Description, Hiring
+manager name, Company name, Email id of hiring manager etc) in a
+database of your choice.
 
 ## Bug / Feature Request
-If you find a bug , kindly open an issue [here](https://github.com/dhananjayan-r/Colorizer/issues) by including your search query and the expected result.
+If you find a bug , kindly open an issue [here](https://github.com/dhananjayan-r/Linkedin_scarper/issues) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/dhananjayan-r/Colorizer/issues). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/dhananjayan-r/Linkedin_scarper/issues). Please include sample queries and their corresponding results.
 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
