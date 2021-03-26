@@ -1,5 +1,4 @@
 # LinkedIn job detail scarper
-Black and white image colorization with OpenCV.
 ## Table of Content
   * [Overview](#overview)
   * [Bug / Feature Request](#bug---feature-request)
